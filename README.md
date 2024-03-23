@@ -4,7 +4,7 @@
 
 🌍  I'm based in Naradhiwat, Thailand
 <br/>
-🏫  I'm studying at, Princess of Naradhiwas University (PNU) | Faculty of Management Sciences (FMS) | Management Infomation Technology (MIT)
+🏫  I'm studying at, Princess of Naradhiwas University(PNU) | Faculty of Management Sciences(FMS) | Management Infomation Technology(MIT)
 <br/>
 <img src="https://komarev.com/ghpvc/?username=ivieowX&style=flat&color=blueviolet" alt="account counter"/>
 </div>
