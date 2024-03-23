@@ -40,5 +40,6 @@
 
 ### My Stats 
 [<a href="http://www.github.com/ivieowX"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ivieowX&stroke=ffffff&background=1c1917&ring=a855f7&fire=a855f7&currStreakNum=ffffff&currStreakLabel=a855f7&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>](https://github-readme-streak-stats.herokuapp.com/?user=ivieowX)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivieowX&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
