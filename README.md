@@ -39,7 +39,8 @@
 <div align="center">
 
 ### My Stats 
-[<a href="http://www.github.com/ivieowX"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ivieowX&stroke=ffffff&background=1c1917&ring=a855f7&fire=a855f7&currStreakNum=ffffff&currStreakLabel=a855f7&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>](https://github-readme-streak-stats.herokuapp.com/?user=ivieowX)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivieowX&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<a href="http://www.github.com/ivieowX"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ivieowX&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="https://github.com/ivieowX" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivieowX&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 </div>
