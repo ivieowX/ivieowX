@@ -6,7 +6,7 @@
 <br/>
 🏫  I'm studying at, Princess of Naradhiwas University(PNU) | Faculty of Management Sciences(FMS) | Management Infomation Technology(MIT)
 <br/>
-✉️  You can contact me at [jantarupan@gmail.com](mailto:jantarupan@gmail.com)
+✉️  You can contact me at jantarupan@gmail.com
 <br/>
 <img src="https://komarev.com/ghpvc/?username=ivieowX&style=flat&color=blueviolet" alt="account counter"/>
 </div>
