@@ -83,7 +83,7 @@
   <br/><br/>
 
   <a href="https://github.com/ivieowX">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&stats_format=bytes"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivieowX&stats_format=bytes&hide_border=true&bg_color=1c1917&title_color=a855f7&text_color=ffffff&icon_color=a855f7"/>
   </a>
 
 </div>
