@@ -73,7 +73,7 @@
 <div align="center">
 
   <a href="https://github.com/ivieowX">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=ivieowX&show_icons=true&hide_border=true&bg_color=1c1917&title_color=a855f7&text_color=ffffff&icon_color=a855f7" alt="GitHub Stats"/>
+    <img height="165" src="https://github-readme-stats-iota-steel-22.vercel.app/api?username=ivieowX&show_icons=true&hide_border=true&bg_color=1c1917&title_color=a855f7&text_color=ffffff&icon_color=a855f7" alt="GitHub Stats"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/ivieowX">
@@ -83,7 +83,7 @@
   <br/><br/>
 
   <a href="https://github.com/ivieowX">
-    <img src="github-readme-stats-iota-steel-22.vercel.app"/>
+    <img src="https://github-readme-stats-iota-steel-22.vercel.app/api/top-langs/?username=ivieowX&layout=compact&langs_count=10&bg_color=1c1917&title_color=a855f7&text_color=ffffff&hide_border=true" alt="Top Languages"/>
   </a>
 
 </div>
