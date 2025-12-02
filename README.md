@@ -83,7 +83,7 @@
   <br/><br/>
 
   <a href="https://github.com/ivieowX">
-    <img src="github-readme-stats-om7j5lcu1-ivieowxs-projects.vercel.app"/>
+    <img src="github-readme-stats-iota-steel-22.vercel.app"/>
   </a>
 
 </div>
