@@ -83,7 +83,7 @@
   <br/><br/>
 
   <a href="https://github.com/ivieowX">
-    <img src="https://img.shields.io/github/languages/top/ivieowX/ivieowX?logo=github&style=for-the-badge&color=a855f7" alt="Top Language Badge"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&stats_format=bytes"/>
   </a>
 
 </div>
