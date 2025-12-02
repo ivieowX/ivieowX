@@ -73,17 +73,17 @@
 <div align="center">
 
 <a href="https://github.com/ivieowX">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ivieowX&show_icons=true&hide_border=true&theme=dracula&rank_icon=github" alt="GitHub Stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ivieowX&show_icons=true&hide_border=true&theme=dracula&rank_icon=github" alt="GitHub Stats"/>
 </a>
 &nbsp;&nbsp;
 <a href="https://github.com/ivieowX">
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=ivieowX&hide_border=true&background=1c1917&ring=a855f7&fire=a855f7&currStreakNum=ffffff&currStreakLabel=a855f7&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" alt="Streak Stats"/>
+  <img height="165" src="https://github-readme-streak-stats.demolab.com?user=ivieowX&hide_border=true&background=1c1917&ring=a855f7&fire=a855f7&currStreakNum=ffffff&currStreakLabel=a855f7&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" alt="Streak Stats"/>
 </a>
 
 <br/><br/>
 
 <a href="https://github.com/ivieowX">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivieowX&layout=compact&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivieowX&layout=compact&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="Top Languages"/>
 </a>
 
 </div>
