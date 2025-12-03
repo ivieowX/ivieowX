@@ -4,7 +4,7 @@
 # Hi 👋 I'm **Jakraphong**
 
 🌍 Based in **Narathiwat, Thailand**  
-🏫 Graduated from **Princess of Naradhiwas University (PNU)** — FMS · MIT  
+🏫 Graduated from **Princess of Naradhiwas University (PNU)** — FMS · MIT        
 🚀 Portfolio: **[my-portfolio-jkphng.vercel.app](https://my-portfolio-jkphng.vercel.app/)** 📫 Reach me: **[jantarupan@gmail.com](mailto:jantarupan@gmail.com)**
 
 <br/>
